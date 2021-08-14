@@ -1,4 +1,4 @@
-use <schweller_kappe_vr_silloutette.scad>
+use <sillouette_in_direction_of_travel.scad>
 
 $fs = 0.5;
 
