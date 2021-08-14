@@ -1,3 +1,7 @@
+/* Sebastian A. Mueller
+ * Mercedes-Benz W202 C43 AMG spoiler-cover
+ * A 202 698 47 30 VL
+ */
 use <sillouette_in_direction_of_travel.scad>
 
 $fs = 0.5;
@@ -96,7 +100,7 @@ difference () {
                                         circle(curvature_radius);
                                     }
                                 }
-                            } 
+                            }
                         }
                     }
                 }
