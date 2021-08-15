@@ -2,8 +2,8 @@
  * Mercedes-Benz W202 C43 AMG spoiler-cover
  * A 202 698 47 30 HL
  */
-use <images/scan_1.scad> // module name: g833
-use <images/scan_2.scad> // module name: g887
+use <scans/scan_1.scad> // module name: g833
+use <scans/scan_2.scad> // module name: g887
 
 module rear_edge() {
     translate([0,80,0]) {
