@@ -5,10 +5,10 @@ The four spoiler-covers for the car-jack-ports on the 1997-1999 W202 C43 AMG.
 
 part-designation | position | drawings | prints
 ---------------- | -------- | ------ | ----------
-A-202-698-47-30-VL | front left | 80% ok | fits ok on car
-A-202-698-47-30-VR | front right | | 
-A-202-698-47-30-HL | rear left | | 
-A-202-698-47-30-HR | rear right | |
+A-202-698-47-30-VL | front left | will mirror right |
+A-202-698-47-30-VR | front right | 80% done | fits ok on car
+A-202-698-47-30-HL | rear left | 50% done |
+A-202-698-47-30-HR | rear right | will mirror left|
 
 After all these years and many snap-ins and snap-outs, my original covers got a bit loose. I fear to loose them.
 I decided to make 3D-printable replicas for my daily driving.
