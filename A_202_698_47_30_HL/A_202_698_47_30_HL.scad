@@ -34,7 +34,7 @@ module front_edge(extrude_width=1) {
 }
 
 outer_cover_height = 73;
-outer_cover_width = 60.0;
+outer_cover_width = 60.5;
 outer_cover_corner_radius = 3.5;
 
 module outer_shape(width) {
