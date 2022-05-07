@@ -104,7 +104,7 @@ module cover_wall_round_corners() {
 LOWER_OVERLAPPING_NOTCH_WIDTH = 40;
 
 SNAP_TOOTH_WIDTH = 6.0;
-SNAP_SPAN_FRONT_TO_BACK = 54;
+SNAP_SPAN_FRONT_TO_BACK = 52;
 SNAP_TOOTH_DEPTH = 0.5;
 
 module tooth(width, height, depth) {
