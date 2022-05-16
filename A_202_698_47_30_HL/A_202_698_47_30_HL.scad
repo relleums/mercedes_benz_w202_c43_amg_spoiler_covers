@@ -6,7 +6,7 @@ use <scans/scan_1.scad> // module name: g833
 use <scans/scan_2.scad> // module name: g887
 use <scans/lower_overlapping_notch.scad> // module name: g001
 
-__version__ = "v0.2";
+__version__ = "v0.3";
 
 module rear_edge(extrude_width=1) {
     translate([0,80,0]) {
@@ -211,14 +211,14 @@ module type_text(side_name) {
     }
 }
 
-module A_202_698_47_30_HL() {
+module A_202_698_47_30_HR() {
     A_202_698_47_30();
-    translate([0,30,30]){rotate([0,90,0]) {type_text(side_name="HL");}}
+    translate([0,30,30]){rotate([0,90,0]) {type_text(side_name="HR");}}
 }
 
-module A_202_698_47_30_HR() {
+module A_202_698_47_30_HL() {
     mirror([0,0,1]) {A_202_698_47_30();}
-    translate([0,30,-30]){rotate([0,90,0]) {type_text(side_name="HR");}}
+    translate([0,30,-30]){rotate([0,90,0]) {type_text(side_name="HL");}}
 }
 
 //A_202_698_47_30_HL();
